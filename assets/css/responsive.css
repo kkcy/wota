@@ -145,6 +145,7 @@
     }
     .app-shot-one .app-shot-one__carousel::before {
         display: none;
+        width: calc(100%+10px);
     }
     .app-shot-one .app-shot-one__carousel {
         padding: 0;
