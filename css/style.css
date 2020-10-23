@@ -379,7 +379,7 @@ a.text-footer:hover, a.text-footer:focus {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.focus {
   background-color: #F16035 !important;
   border-color: #F16035 !important;
-  color: #aaa7a7 !important;
+  color: #ffffff !important;
 }
 
 .btn-soft-primary {
@@ -5227,3 +5227,4 @@ p {
 .col-md-10 {
 }
 /*# sourceMappingURL=style.css.map */
+
