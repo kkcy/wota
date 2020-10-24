@@ -4353,9 +4353,10 @@ p {
   transition: all 0.5s ease;
 }
 
-#features .container{
+/* #features .container{
    padding-top: ;
-}
+} */
+
 .container-filter li a {
   font-size: 13px;
   padding: 0px 15px;
@@ -5224,7 +5225,9 @@ p {
   padding-bottom: 10%;
 }
 
-.col-md-10 {
-}
 /*# sourceMappingURL=style.css.map */
 
+/* Override */
+.row-with-gaps {
+  row-gap: 16px;
+}
